@@ -1,1 +1,1 @@
-import from bertopic import BERTopic
+from bertopic import BERTopic
